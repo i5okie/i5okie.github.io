@@ -2,6 +2,7 @@
 layout: post
 title: Learning Ruby on Rails almost from scratch.
 category: learningrails
+categories: learningrails
 ---
 
 A story of discovery, learning, and the journey to the (seemlingly) unreachable goal.
