@@ -37,4 +37,7 @@ in system's enginneer/admin career. If you want, you can read the about me post 
 In my family of four, I am the sole bacon provider. I can't take time off work to persue another career.
 
 
-I was introduced to the world of Rails sometime in 2008-2009. I've followed the tryruby.org
+I was introduced to the world of Rails sometime in 2008-2009. I've followed the tryruby.org, made the usual micro-blogging site replica... but I didn't really have a desire to really commit to it at the time. I had
+a job at a laptop store, then went to school for a few years for more SysAdmin, networking, and that sort of stuff.
+
+Recently (late 2014), I've been involved in designing a web application. Of course I've recommended to go with Rails. Not having enough experience with rails though, I've contacted a proper rails shop. I've actually enjoed desiging the app, and discussing it with the developers. That inspired me to really dive into Rails this time.
