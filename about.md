@@ -9,7 +9,7 @@ Some information about you!
 ### Interests and stuff
 
 
-I love photography. At one point I wanted to do photography professinally, so I registered a domain and created my brand, [SimplyKapture](http://simiplykapture.com). I've uploaded some of the photos I've taken to [Flickr](https://www.flickr.com/photos/simplykapture) for everyone to see. A couple of pictures are actually scans of photos I've taken with the old russian Zenith camera, and printed myself at high school lab.
+I love photography. At one point I wanted to do photography professinally, so I registered a domain and created my brand, [SimplyKapture](http://simplykapture.com). I've uploaded some of the photos I've taken to [Flickr](https://www.flickr.com/photos/simplykapture) for everyone to see. A couple of pictures are actually scans of photos I've taken with the old russian Zenith camera, and printed myself at high school lab.
 
 I love cars. I love driving, going for a cruise on a highway, sight seeing.. As a kid I wanted to become a professional race car driver. I've been a part of a Go-Kart club for a few years in Kiev. Rebuilt the motors, built gokards from scratch. And raced them. I was pretty good at that :) There was a part of my life when I decided to take Autobody Repair course. Learned how to weld, how to bend metal with a hammer and dolly, prep and paint it, etc.. I finished at the top of the class and decided to work at the best autobody shop / best employer. I've worked at a couple shops before finally a job was available at Collision Autobody. That was great time, until some drama. At that point I took an exit from that career.
 
