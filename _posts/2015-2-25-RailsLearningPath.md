@@ -38,6 +38,9 @@ In my family of four, I am the sole bacon provider. I can't take time off work t
 
 
 I was introduced to the world of Rails sometime in 2008-2009. I've followed the tryruby.org, made the usual micro-blogging site replica... but I didn't really have a desire to really commit to it at the time. I had
-a job at a laptop store, then went to school for a few years for more SysAdmin, networking, and that sort of stuff.
+a job at a laptop store, then went to school for a few years for Computer Information Systems Administration at BCIT. This didn't really cover any programming.
 
-Recently (late 2014), I've been involved in designing a web application. Of course I've recommended to go with Rails. Not having enough experience with rails though, I've contacted a proper rails shop. I've actually enjoed desiging the app, and discussing it with the developers. That inspired me to really dive into Rails this time.
+Recently, a customer required a web based application as part of a solution. I knew enough to put together a proof of concept AngularJS dummy client, and drew up a basic logic of the application on a whiteboard. Not having enough experience and knowledge of Ruby on Rails to write it ground up myself, I've helped contact a boutique Rails dev shop. Together, we've worked to iron out user stories, and come up with enough raw information for them to develop an MVP (Minimum Viable Product). Going through this process, I've re-discovered my love for software design and inspired me to really dive in, and learn Ruby, and Ruby on Rails as much as I could.
+
+
+to be continued...
