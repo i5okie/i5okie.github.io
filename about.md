@@ -4,6 +4,11 @@ title: About
 permalink: /about/
 ---
 
+As a Systems Engineer,
+I analyse customer's technology needs and help put together complete solutions. I've also designed some fully integrated systems for retail kiosks.
+
+I'm still growing my Web Development skills.
+I know HTML, CSS. And I've been using Photoshop since the 90's. I'm actively 
 
 
 ### Interests and stuff
