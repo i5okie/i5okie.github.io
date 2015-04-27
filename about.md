@@ -8,7 +8,9 @@ As a Systems Engineer,
 I analyse customer's technology needs and help put together complete solutions. I've also designed some fully integrated systems for retail kiosks.
 
 I'm still growing my Web Development skills.
-I know HTML, CSS. And I've been using Photoshop since the 90's. I'm actively 
+I know HTML, CSS. And I've been using Photoshop off and on since the 90's. I'm actively learning more skills and technologies on TeamTreeHouse, CodeSchool, Lynda and other online resources.
+
+[TeamTreeHouse Profile](teamtreehouse.com/ivanpolchenko). [CodeSchool Profile](https://www.codeschool.com/users/i5okie).
 
 
 ### Interests and stuff
@@ -22,7 +24,7 @@ I love music. I love listening to it, and I love playing piano and recording mus
 I've played piano since 2nd grade and went to classical music school in Kiev for a few years.
 Since then I've forgotten how to read music as fast as I could years ago. But I still play by ear, and create music on my computer with a midi keyboard. Sometimes I upload my stuff to [SoundCloud](https://soundcloud.com/i5okie).
 
-I love technology. I'm a geek and a nerd. I was lucky to be introduced to computers at an early age in Kiev. I'd play games on Win 3.11 machine at my grandma's work. Then we had a computer at home, I quickly learned ins and outs of that. In highschool I was part of computer club, helped fix teachers computers, supervise computer labs.. even wrote a VB app for students to sign in and sign out of the lab with their student ID cards, to keep track of it for school's administration. yep, nerd. I always have, and always will love technology. 
+I love technology. I'm a geek and a nerd. I was lucky to be introduced to computers at an early age in Kiev. I'd play games on Win 3.11 machine at my grandma's work. Then we had a computer at home, I quickly learned ins and outs of that. In highschool I was part of computer club, helped fix teachers computers, supervise computer labs.. even wrote a VB app for students to sign in and sign out of the lab with their student ID cards, to keep track of it for school's administration. yep, nerd. I always have, and always will love technology.
 
 I also really love nature. I love the outdoors, going camping, and not the RV type of camping. Hammock all the way :)
 
