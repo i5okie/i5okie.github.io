@@ -10,7 +10,7 @@ I analyse customer's technology needs and help put together complete solutions. 
 I'm still growing my Web Development skills.
 I know HTML, CSS. And I've been using Photoshop off and on since the 90's. I'm actively learning more skills and technologies on TeamTreeHouse, CodeSchool, Lynda and other online resources.
 
-[TeamTreeHouse Profile](teamtreehouse.com/ivanpolchenko). [CodeSchool Profile](https://www.codeschool.com/users/i5okie).
+[TeamTreeHouse Profile](teamtreehouse.com/ivanpolchenko)  |  [CodeSchool Profile](https://www.codeschool.com/users/i5okie).
 
 
 ### Interests and stuff
