@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning Ruby on Rails (Part 2)
+title: Learning Web Development, with Ruby on Rails (Part 2)
 category: learningrails
 categories: learningrails
 ---
